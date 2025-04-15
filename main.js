@@ -12,7 +12,7 @@ btnColor.addEventListener('click' , () =>{
         let r = Math.floor(Math.random()* 256)
         let g = Math.floor(Math.random()* 256)
         let b = Math.floor(Math.random()* 256)
-        paragrafo.style.color = `rgb (${r}, ${g}, ${b})`
+        paragrafo.style.color = `rgb(${r}, ${g}, ${b})`
     });
 })
 
